@@ -10,6 +10,17 @@ The overall release version always matches the Blender Addon version.
 * **Substance Painter change** – Both versions bump together. This is required because Blender's Extension auto-update feature triggers off the Blender Addon version – bumping it ensures users receive the updated Substance Painter plugin files automatically.
 
 ---
+## [1.0.1] - 2026-07-17
+
+### Fixed
+* Resolved all Python API deprecation warnings (`name`, `file_path`, `material`) on Substance Painter 12.1+.
+* Improved compatibility layer to dynamically handle property/method differences across SP versions.
+
+### Changed
+* Bumped version to v1.0.1 for the Blender addon, Substance plugin, and auto-updater.
+
+### Added
+* Verified and tested full compatibility with **Blender 5.2**.
 
 ## [1.0.0] - Initial Release
 

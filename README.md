@@ -5,7 +5,7 @@
 
 An automated, pipeline-friendly bidirectional bridge connecting **Blender** and **Substance Painter**. Stop exporting meshes, configuring bakers, and wiring shader nodes one-by-one; BakeBridge automates your entire texturing loop in a single click.
 
-[![Blender](https://img.shields.io/badge/Blender-4.2%20LTS%20%7C%204.5%20LTS%20%7C%205.1-orange)](https://blender.org) [![Substance Painter](https://img.shields.io/badge/Substance%20Painter-10%20%7C%2011%20%7C%2012-red)](https://adobe.com)
+[![Blender](https://img.shields.io/badge/Blender-4.2%20LTS%20%7C%204.5%20LTS%20%7C%205.1%20%7C%205.2-orange)](https://blender.org) [![Substance Painter](https://img.shields.io/badge/Substance%20Painter-10%20%7C%2011%20%7C%2012-red)](https://adobe.com)
 
 ---
 
