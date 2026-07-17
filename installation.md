@@ -35,7 +35,7 @@ In Blender, go to **Edit → Preferences → Add-ons** and locate **BakeBridge -
 ---
 
 ## Step 3: Activate the Plugin in Substance Painter
-![installation-sp](image&gifs/installation_sp.gif)
+![installation-sp](image&gifs/installation_SP.gif)
 
 Before the bridge can process commands, you must enable the plugin inside Substance Painter. You can do this in two ways:
 

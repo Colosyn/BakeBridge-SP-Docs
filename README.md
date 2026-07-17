@@ -1,16 +1,17 @@
 # BakeBridge
-![BakeBridge Brand Banner](image&gifs/BakeBridge_LOGO.png)
+<p align="center">
+  <img src="image&gifs/BakeBridge_LOGO.png" width="150" alt="BakeBridge Logo">
+</p>
 
 An automated, pipeline-friendly bidirectional bridge connecting **Blender** and **Substance Painter**. Stop exporting meshes, configuring bakers, and wiring shader nodes one-by-one; BakeBridge automates your entire texturing loop in a single click.
 
-[![Blender](https://img.shields.io/badge/Blender-4.2%20LTS%20%7C%204.5%20LTS%20%7C%205.1%20%7C%205.2-orange)](https://blender.org) [![Substance Painter](https://img.shields.io/badge/Substance%20Painter-10%20%7C%2011%20%7C%2012-red)](https://adobe.com)
+[![Blender](https://img.shields.io/badge/Blender-4.2%20LTS%20%7C%204.5%20LTS%20%7C%205.1-orange)](https://blender.org) [![Substance Painter](https://img.shields.io/badge/Substance%20Painter-10%20%7C%2011%20%7C%2012-red)](https://adobe.com)
 
 ---
 
 ## Demo
 
-![Watch BakeBridge in Action](https://youtu.be/AeNxs-6J0xA)
-*(Click the banner above to watch the YouTube demo video!)*
+[![Watch BakeBridge in Action](https://img.youtube.com/vi/AeNxs-6J0xA/maxresdefault.jpg)](https://www.youtube.com/watch?v=AeNxs-6J0xA)
 
 ---
 
@@ -31,13 +32,13 @@ An automated, pipeline-friendly bidirectional bridge connecting **Blender** and 
 ## 📺 Feature Showcase
 ### 🚀 One-Click Export & Setup
 ![One-Click Bridge](image&gifs/one_click_bridge.gif)
-*BakeBridge auto-saves your file, cleans up geometry, and boots up Substance Painter in a single click.*
+> **BakeBridge auto-saves your file, cleans up geometry, and boots up Substance Painter in a single click.**
 ### 📏 Per-Material Resolution Overrides
 ![Per-Material Overrides](image&gifs/resolution_overrides.gif)
-*Set different resolutions for individual materials in Blender, and let the bridge handle the export config automatically.*
+> **Set different resolutions for individual materials in Blender, and let the bridge handle the export config automatically.**
 ### 🔌 Auto-Shader Setup (Auto-Wiring)
-![Auto-Shader Setup](image&gifs/wire_texture.gif)
-*Click the BB button in Substance Painter, and watch Blender instantly build the Principled BSDF node tree with correct color spaces.*
+![Auto-Shader Setup](image&gifs/Wire_texture.gif)
+> **Click the BB button in Substance Painter, and watch Blender instantly build the Principled BSDF node tree with correct color spaces.**
 ---
 
 ## 📖 Quick Links
